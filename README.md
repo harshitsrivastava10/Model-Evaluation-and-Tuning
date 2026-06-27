@@ -14,4 +14,3 @@ This repository contains Week 3 of the AI/ML Internship tasks. Building upon the
 ## Repository Contents
 * `model_evaluation_and_tuning.py`: The core pipeline script for model training and visualization generation.
 * `docs/performance_report.md`: A detailed breakdown of model performance, metrics explanation, and final conclusions.
-* `images/`: Contains generated plots for Feature Importance and Predicted vs. Actual distributions.
